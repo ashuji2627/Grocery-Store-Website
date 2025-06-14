@@ -30,7 +30,7 @@ This project represents a **static frontend design** of an online grocery store,
    - Informational page about the business/store
    - Contact form or contact info (if included)
 
-### 🛠Technologies Used
+### Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
